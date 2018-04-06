@@ -5,6 +5,8 @@
 [Input.Image]
 dir = 'c/\users
 
-{Split.Proc]
+[Split.Proc]
+
+
 
 
