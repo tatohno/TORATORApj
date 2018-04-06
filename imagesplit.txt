@@ -1,0 +1,10 @@
+[DEFAULT]
+
+
+
+[Input.Image]
+dir = 'c/\users
+
+{Split.Proc]
+
+
